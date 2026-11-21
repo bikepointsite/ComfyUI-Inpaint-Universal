@@ -1,0 +1,7 @@
+numpy
+Pillow
+scipy
+opencv-python
+kornia
+onnxruntime
+segment-anything==1.0
