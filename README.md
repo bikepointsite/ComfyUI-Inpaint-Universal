@@ -1,6 +1,8 @@
 # Inpaint Universal 4.1 for ComfyUI
 
-[Инструкция на русском](README_RU.md) · [Model files and downloads](MODELS.md)
+[**English user guide**](GUIDE_EN.md) · [Руководство пользователя на русском](GUIDE_RU.md)
+
+[Установка на русском](README_RU.md) · [Model files and downloads](MODELS.md)
 
 Edit a transparent PNG with local SDXL inpainting, or use the manual brushes without running diffusion. The editor includes alpha repair, inward and free edge warps, adjustable curves, dodge and burn, texture healing, SAM selection, ControlNet fold guides and IP-Adapter reference crops. The result node lets you save an RGBA PNG or send it back to the brush editor for another pass.
 
